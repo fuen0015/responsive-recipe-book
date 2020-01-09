@@ -1,0 +1,31 @@
+html {
+  font-family: garamond-premier-pro, serif;
+}
+
+.logo {
+  width: 400px;
+  color: #fff;
+}
+
+header,
+footer {
+  background-color: #cb4a4b;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.oswald-header {
+  font-family: oswald, sans-serif;
+}
+
+h3,
+h2 {
+  font-weight: lighter;
+}
+
+footer p {
+  color: #fff;
+}
