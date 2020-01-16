@@ -33,3 +33,15 @@ footer p {
 .cards {
   background-color: #fff;
 }
+
+.card {
+  border: 1px solid #cb4a4b;
+}
+
+.chop {
+  max-height: 600px;
+}
+
+.btn {
+  background-color: #cb4a4b;
+}
