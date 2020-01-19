@@ -3,7 +3,7 @@ html {
 }
 
 .logo {
-  width: 400px;
+  width: 100%;
   color: #fff;
 }
 
@@ -17,7 +17,8 @@ a {
   color: #fff;
 }
 
-.oswald-header {
+.oswald-header,
+.oswald-h3 {
   font-family: oswald, sans-serif;
 }
 
@@ -44,4 +45,9 @@ footer p {
 
 .btn {
   background-color: #cb4a4b;
+}
+
+.recipe-img {
+  height: 60em;
+  overflow: hidden;
 }
